@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CEFE&height=180&section=header&text=Kanokpong%20Huakham&fontSize=50&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CEFE&height=180&section=header&text=Hi%20I%20am%20Bas&fontSize=50&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 ### 🌸 About Me
