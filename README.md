@@ -32,9 +32,3 @@
 ![Linux](https://img.shields.io/badge/Linux-%23CDB4DB.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
-
-### 📊 My Stats
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=pastel&bg_color=FDFCF0&title_color=B2CEFE&icon_color=B2CEFE" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=pastel&bg_color=FDFCF0&title_color=B2CEFE" />
-</p>
