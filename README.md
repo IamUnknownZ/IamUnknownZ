@@ -25,11 +25,6 @@
 ![Java](https://img.shields.io/badge/java-%23FFB347.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23B2CEFE.svg?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Database**
-![React](https://img.shields.io/badge/react-%23ACE1AF.svg?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%23C1E1C1.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23B2CEFE.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFD1DC.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 
 **Design & Tools**
 ![Git](https://img.shields.io/badge/git-%23FBC4AB.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -42,12 +37,4 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=pastel&bg_color=FDFCF0&title_color=B2CEFE&icon_color=B2CEFE" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=pastel&bg_color=FDFCF0&title_color=B2CEFE" />
-</p>
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-B2CEFE?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://your-portfolio.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-FFD1DC?style=flat-square&logo=ko-fi&logoColor=white" alt="portfolio" /></a>
 </p>
