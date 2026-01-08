@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 Tech Stack (Pastel Edition)
+### 🛠 Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7E1A1.svg?style=for-the-badge&logo=javascript&logoColor=white)
