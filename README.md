@@ -6,7 +6,7 @@
 * 🎓 **Sophomore Student** at **KMUTNB**
 * 🏫 **Computer Education**, Faculty of Technical Education.
 * 🧠 Currently exploring **Data Structures, Database, and Web Development**.
-* ☁️ Passionate about **Educational Technology** and modern coding.
+* ☁️ Passionate about Ai and modern coding.
 
 ---
 
