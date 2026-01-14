@@ -5,7 +5,7 @@
 ### 🌸 About Me
 * 🎓 **Sophomore Student** at **KMUTNB**
 * 🏫 **Computer Education**, Faculty of Technical Education.
-* 🧠 Currently exploring **Data Structures, Database, and Web Development**.
+* 🧠 Currently exploring **Data Structures, Database, and Web Development,React**.
 * ☁️ Passionate about Ai and modern coding.
 
 ---
